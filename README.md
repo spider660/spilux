@@ -14,8 +14,8 @@ https://github.com/wulabing/xray_docker
 如果您不想重新安装，您可以通过使用 https://github.com/KukiSa/VMess-fAEAD-disable 强制开启对于 MD5 认证机制的兼容
 
 ### Telegram 群组
-* telegram 交流群:https://t.me/wulabing_v2ray 
-* telegram 更新公告频道：https://t.me/wulabing_channel
+* telegram 交流群:https://t.me/SpiluxX
+* telegram 更新公告频道：https://t.me/SpiluxX
 
 ### 准备工作
 * 准备一个域名，并将A记录添加好。
